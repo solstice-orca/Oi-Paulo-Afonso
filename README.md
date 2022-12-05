@@ -145,6 +145,6 @@ int main(){
 }
 
 ```
-[]([https://br.pinterest.com/pin/531776668502227222/](https://media.gettyimages.com/id/1337942720/photo/close-up-of-curious-common-seal-harbour-seal-swimming-in-sea.jpg?s=1024x1024&w=gi&k=20&c=Ldw_fTbHINF5-hgYmgT1DwRcMFLyk6c646a8bmq_5dQ=) "Olha que link interessante aqui em baixo, eu clicava se fosse você!")
+![foca]([https://br.pinterest.com/pin/531776668502227222/](https://media.gettyimages.com/id/1337942720/photo/close-up-of-curious-common-seal-harbour-seal-swimming-in-sea.jpg?s=1024x1024&w=gi&k=20&c=Ldw_fTbHINF5-hgYmgT1DwRcMFLyk6c646a8bmq_5dQ=) "Olha que link interessante aqui em baixo, eu clicava se fosse você!")
 
 [Link importantíssimo!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
