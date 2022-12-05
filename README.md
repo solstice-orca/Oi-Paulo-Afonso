@@ -1,5 +1,9 @@
 # Oi-Paulo-Afonso
-Olá professor, obrigada pela paciência, aqui está um código em C++ para converter um arquivo .csv em .bin
+Olá professor, obrigada pela paciência, aqui está um **código em C++ para converter um arquivo .csv em .bin**
+
+* A função *main* chama a função converte.
+* A função *converte* ignora a primeira linha do arquivo, que se espera não conter dados.
+* Enquanto o arquivo não chegar ao fim, o programa percorre linha por linha tratando o arquivo (removendo acentos, aspas e parênteses desnecessários) e as convertendo em binário e registrandoas em novo arquivo.
 
 ```
 #include <iostream>
