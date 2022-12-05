@@ -145,3 +145,6 @@ int main(){
 }
 
 ```
+[Foca fofa](https://br.pinterest.com/pin/531776668502227222/ "Olha que link interessante aqui em baixo, eu clicava se fosse você!")
+
+[Link importantíssimo!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
